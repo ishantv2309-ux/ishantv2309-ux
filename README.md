@@ -53,5 +53,5 @@
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishantv2309-ux/ishantv2309-ux/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ishantv2309-ux/ishantverma2309/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
