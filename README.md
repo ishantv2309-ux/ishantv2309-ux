@@ -19,22 +19,56 @@
 
 #### 🔹 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts&per=5" alt="Languages" />
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" /></a>
+  <br>
+  <b>C</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>TypeScript</b>
 </p>
 
 #### 📱 Frontend & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,reactnative&per=4" alt="Frontend" />
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" width="48" height="48" /></a>
+  <br>
+  <b>HTML5</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CSS3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>React</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>React Native</b>
 </p>
 
 #### ⚙️ Backend, APIs & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,git&per=4" alt="Backend & DevOps" />
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
+  <br>
+  <b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Express</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Docker</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Git</b>
 </p>
 
 #### 💻 Environment & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,apple,terminal&per=4" alt="Environment" />
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=apple" alt="macOS" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ishantv2309-ux"><img src="https://skillicons.dev/icons?i=terminal" alt="Terminal" width="48" height="48" /></a>
+  <br>
+  <b>VS Code</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>IntelliJ</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>macOS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Terminal</b>
 </p>
 
 ---
