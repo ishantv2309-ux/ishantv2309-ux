@@ -42,11 +42,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishantv2309-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantv2309-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
 ### 🐍 Contribution Activity
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ishantv2309-ux/ishantv2309-ux/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+</p>
