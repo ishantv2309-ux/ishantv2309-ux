@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://github.com/ishantv2309-ux">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hi+there,+I'm+Ishant+Verma+👋;2nd+Year+CSE+Student+💻;Full-Stack+%26+AI+Builder+🚀;Creative+Problem+Solver+🧩" alt="Typing Header Animation" />
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=50&lines=Hi+there,+I'm+Ishant+Verma+👋;2nd+Year+CSE+Student+💻;Full-Stack+%26+AI+Builder+🚀" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <em>Building high-performance software, AI-driven tooling, and modern developer interfaces.</em>
@@ -13,19 +11,31 @@
 ### ⚡ About Me
 - 🎓 **B.Tech Computer Science & Engineering** student based in Uttar Pradesh, India.
 - 💻 Primary development environment: **Apple MacBook M4** running macOS, with custom terminal and IDE workflows.
-- 🧩 **Fun Fact:** Avid speedcuber—solving puzzles on a MoYu RS3M when I'm not writing code!
+- 🧩 **Fun Fact:** Avid speedcuber—solving puzzles when I'm not writing code!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
+#### 🔹 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+#### 📱 Frontend & Web
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB" alt="React Native" />
+</p>
+
+#### ⚙️ Tools & Environment
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
