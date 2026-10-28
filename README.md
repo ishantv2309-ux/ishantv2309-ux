@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=60&lines=Hi+there,+I'm+Ishant+Verma+👋;B.Tech+CSE+Student;Full-Stack+Developer+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=60&lines=Hi+there,+I'm+Ishant+Verma+👋;B.Tech+CSE+Student;Full-Stack+Developer+%26+Builder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?ids=cpp,python,javascript,typescript,react,reactnative,git,vscode,macos" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?ids=cpp,py,js,ts,react,git,vscode,apple" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -32,12 +32,12 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Metrics & Languages
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishantv2309-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishantv2309-ux&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantv2309-ux&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
