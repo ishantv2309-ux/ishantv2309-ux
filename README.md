@@ -1,5 +1,8 @@
-<h1 align="center">Hi there, I'm Ishant Verma 👋</h1>
-<h3 align="center">B.Tech CSE Student & Full-Stack Developer</h3>
+<p align="center">
+  <a href="https://github.com/ishantv2309-ux">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hi+there,+I'm+Ishant+Verma+👋;2nd+Year+CSE+Student+💻;Full-Stack+%26+AI+Builder+🚀;Creative+Problem+Solver+🧩" alt="Typing Header Animation" />
+  </a>
+</p>
 
 <p align="center">
   <em>Building high-performance software, AI-driven tooling, and modern developer interfaces.</em>
@@ -17,6 +20,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -42,9 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishantv2309-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantv2309-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -53,5 +55,5 @@
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishantv2309-ux/ishantverma2309/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ishantv2309-ux/ishantv2309-ux/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
