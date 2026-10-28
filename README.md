@@ -45,3 +45,8 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantv2309-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ishantv2309-ux/ishantv2309-ux/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
